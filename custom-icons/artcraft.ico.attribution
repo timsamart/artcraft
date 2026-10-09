@@ -1,0 +1,8 @@
+asset: artcraft.ico
+title: ArtCraft custom desktop icon
+author: @timsamart (AI-assisted with OpenAI imagegen)
+source: original generated work; generation-prompt.txt
+license: MIT
+license-file: custom-icons/LICENSE.txt
+added: 2026-10-09
+notes: extracted from a single approved 14-app sheet; resized and packaged with Pillow

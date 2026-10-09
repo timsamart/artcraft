@@ -1,0 +1,156 @@
+[
+  {
+    "app": "photocraft",
+    "crop": [
+      52,
+      53,
+      334,
+      318
+    ],
+    "png": "photocraft.png",
+    "ico": "photocraft.ico"
+  },
+  {
+    "app": "lightcraft",
+    "crop": [
+      354,
+      53,
+      638,
+      318
+    ],
+    "png": "lightcraft.png",
+    "ico": "lightcraft.ico"
+  },
+  {
+    "app": "filmcraft",
+    "crop": [
+      659,
+      53,
+      941,
+      318
+    ],
+    "png": "filmcraft.png",
+    "ico": "filmcraft.ico"
+  },
+  {
+    "app": "pdfcraft",
+    "crop": [
+      962,
+      53,
+      1244,
+      318
+    ],
+    "png": "pdfcraft.png",
+    "ico": "pdfcraft.ico"
+  },
+  {
+    "app": "vectorcraft",
+    "crop": [
+      52,
+      331,
+      334,
+      598
+    ],
+    "png": "vectorcraft.png",
+    "ico": "vectorcraft.ico"
+  },
+  {
+    "app": "effectcraft",
+    "crop": [
+      354,
+      331,
+      638,
+      598
+    ],
+    "png": "effectcraft.png",
+    "ico": "effectcraft.ico"
+  },
+  {
+    "app": "designcraft",
+    "crop": [
+      659,
+      331,
+      941,
+      598
+    ],
+    "png": "designcraft.png",
+    "ico": "designcraft.ico"
+  },
+  {
+    "app": "wordcraft",
+    "crop": [
+      962,
+      331,
+      1244,
+      598
+    ],
+    "png": "wordcraft.png",
+    "ico": "wordcraft.ico"
+  },
+  {
+    "app": "cadcraft",
+    "crop": [
+      52,
+      613,
+      334,
+      880
+    ],
+    "png": "cadcraft.png",
+    "ico": "cadcraft.ico"
+  },
+  {
+    "app": "gridcraft",
+    "crop": [
+      354,
+      613,
+      638,
+      880
+    ],
+    "png": "gridcraft.png",
+    "ico": "gridcraft.ico"
+  },
+  {
+    "app": "soundcraft",
+    "crop": [
+      659,
+      613,
+      941,
+      880
+    ],
+    "png": "soundcraft.png",
+    "ico": "soundcraft.ico"
+  },
+  {
+    "app": "deckcraft",
+    "crop": [
+      962,
+      613,
+      1244,
+      880
+    ],
+    "png": "deckcraft.png",
+    "ico": "deckcraft.ico"
+  },
+  {
+    "app": "artcraft",
+    "crop": [
+      52,
+      892,
+      334,
+      1164
+    ],
+    "png": "artcraft.png",
+    "ico": "artcraft.ico"
+  },
+  {
+    "app": "artcraftx",
+    "crop": [
+      354,
+      892,
+      638,
+      1164
+    ],
+    "png": "artcraftx.png",
+    "ico": "artcraftx.ico"
+  }
+]
